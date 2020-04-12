@@ -6,15 +6,12 @@ So, If you have relatively small dataset then go with this technique to expand y
 Hope you got the idea, why we do data augmentation. We will be exploring some of the techniques and implement them with TensorFlow, which will be pretty easy.
 
 # Image Augmentation Techniques and Implementation
-  - Rotation
-  - Width Shifting
-  - Height Shifting
+  - Flipping
+  - Grayscale
   - Brightness
-  - Shear Intensity
-  - Zoom
-  - Channel Shift
-  - Horizontal Flip
-  - Vertical Flip
-
+  - Rotation
+  - Center Crop
+  - More functions will add soon :)
+  
 # How to use this code
 Just change `image_path` according to your path
